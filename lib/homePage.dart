@@ -174,27 +174,27 @@ class HomePage extends StatelessWidget {
                       SizedBox(
                         width: 45,
                       ),
-                      Chip(
+                      CustomChip(
                         icon: 'assets/images/nightThunder.png',
                         temprature: '23°',
                         time: '12:00',
                       ),
-                      Chip(
+                      CustomChip(
                         icon: 'assets/images/nightThunder.png',
                         temprature: '23°',
                         time: '12:00',
                       ),
-                      Chip(
+                      CustomChip(
                         icon: 'assets/images/nightThunder.png',
                         temprature: '23°',
                         time: '12:00',
                       ),
-                      Chip(
+                      CustomChip(
                         icon: 'assets/images/nightThunder.png',
                         temprature: '23°',
                         time: '12:00',
                       ),
-                      Chip(
+                      CustomChip(
                         icon: 'assets/images/nightThunder.png',
                         temprature: '23°',
                         time: '12:00',
